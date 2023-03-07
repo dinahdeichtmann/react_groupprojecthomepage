@@ -7,7 +7,7 @@ function Footer() {
       <div className="topRow">
         <div>
           <h1>Derby Rules</h1>
-          <p>Site réalisé dans le cadre de notre formation</p>
+          <p>Site réalisé dans le cadre de ma formation</p>
         </div>
         <div>
           <a
@@ -22,30 +22,13 @@ function Footer() {
 
       <div className="bottomRow">
         <div>
-          <h4>Développeur·ses</h4>
+          <h4>Développeur</h4>
           <a
-            href="https://gitlab.com/dinahdeichtmann"
+            href="https://github.com/dinahdeichtmann"
             target="_blank"
             rel="noreferrer"
           >
             Dinah Deichtmann
-          </a>
-          <a
-            href="https://gitlab.com/CelineSebe"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Céline Sebe
-          </a>
-          <a
-            href="https://gitlab.com/clement.tabouelle"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Clément Tabouelle
-          </a>
-          <a href="https://gitlab.com/verdiel" target="_blank" rel="noreferrer">
-            Loïc Verdier
           </a>
         </div>
         <div>
