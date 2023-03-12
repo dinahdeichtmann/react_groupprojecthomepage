@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./NavbarStyle.css";
+import { NavbarItems } from "./NavbarItems";
 
 function Navbar() {
   const [clicked, setClick] = useState(false);
@@ -16,39 +17,16 @@ function Navbar() {
       </div>
 
       <ul className={clicked ? "navMenu active" : "navMenu"}>
-        <li>
-          <a className="navLinks" href="/">
-            <i className="fa-solid fa-house-user"></i>
-            Accueil
-          </a>
-        </li>
-        <li>
-          <a
-            className="navLinks"
-            href="https://rules.wftda.com/fr/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <i className="fa-solid fa-book"></i>
-            Règles
-          </a>
-        </li>
-        <li>
-          <a className="navLinks" href="">
-            <i className="fa-solid fa-person-skating"></i> Compte
-          </a>
-        </li>
-        <li>
-          <a className="navLinks" href="info">
-            <i className="fa-solid fa-circle-info"></i>
-            Info
-          </a>
-        </li>
-        <li>
-          <a className="navLinksMobile" href="">
-            S'enregister
-          </a>
-        </li>
+        {NavbarItems.map((item, index) => {
+          return (
+            <li key={index}>
+              <a className={item.className} href={item.url}>
+                <i className={item.icon}></i>
+                {item.title}
+              </a>
+            </li>
+          );
+        })}
         <button>S'enregister</button>
       </ul>
     </nav>
