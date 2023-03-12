@@ -31,8 +31,9 @@ It ended up being the focus of our end-of-hackathon presentation, **gaining prai
 - Two responsive breakpoints (850px wide, 600px wide)
 - Sticky navbar
 
-## Smaller screen (< 850 px) screenshots
+## Smaller screen screenshots
 
 ![Home Screen](./images/responsive_cover1.png)
 ![Home Screen](./images/responsive_cover2.png)
 ![Home Screen](./images/responsive_cover3.png)
+![Home Screen](./images/responsive_cover4.png)
