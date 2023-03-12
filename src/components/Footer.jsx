@@ -11,11 +11,18 @@ function Footer() {
         </div>
         <div>
           <a
-            href="https://gitlab.com/filrouge-rollerderby/rollerderby-react-django"
+            href="https://github.com/dinahdeichtmann/react_homepage"
             target="_blank"
             rel="noreferrer"
           >
-            <i className="fa-brands fa-square-gitlab"></i>
+            <i className="fa-brands fa-square-github"></i>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/dinahdeichtmann/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <i className="fa-brands fa-linkedin"></i>
           </a>
         </div>
       </div>
