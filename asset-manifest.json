@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dinahdeichtmann/react_homepage/static/css/main.7b5f5636.css",
+    "main.js": "/dinahdeichtmann/react_homepage/static/js/main.e79355cb.js",
+    "static/js/787.b2ba19e2.chunk.js": "/dinahdeichtmann/react_homepage/static/js/787.b2ba19e2.chunk.js",
+    "static/media/casque.jpg": "/dinahdeichtmann/react_homepage/static/media/casque.6987e1cbe94e8b8af99a.jpg",
+    "static/media/jammeuseNatte.jpg": "/dinahdeichtmann/react_homepage/static/media/jammeuseNatte.feac6147fb2e7ad0ff09.jpg",
+    "static/media/ref1.jpg": "/dinahdeichtmann/react_homepage/static/media/ref1.d8549a243102bf676149.jpg",
+    "static/media/NantesVSRennes.jpg": "/dinahdeichtmann/react_homepage/static/media/NantesVSRennes.2aeaa8f7742767596979.jpg",
+    "static/media/balafre.jpg": "/dinahdeichtmann/react_homepage/static/media/balafre.f0125ac4efb4df49ab17.jpg",
+    "static/media/ref2.jpg": "/dinahdeichtmann/react_homepage/static/media/ref2.4e96e5705b93f07443df.jpg",
+    "static/media/patins.jpg": "/dinahdeichtmann/react_homepage/static/media/patins.ee41b913050c4b6d410b.jpg",
+    "static/media/homeBanner1.jpg": "/dinahdeichtmann/react_homepage/static/media/homeBanner1.867ecc1b63961ddb66dd.jpg",
+    "index.html": "/dinahdeichtmann/react_homepage/index.html",
+    "main.7b5f5636.css.map": "/dinahdeichtmann/react_homepage/static/css/main.7b5f5636.css.map",
+    "main.e79355cb.js.map": "/dinahdeichtmann/react_homepage/static/js/main.e79355cb.js.map",
+    "787.b2ba19e2.chunk.js.map": "/dinahdeichtmann/react_homepage/static/js/787.b2ba19e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5f5636.css",
+    "static/js/main.e79355cb.js"
+  ]
+}
