@@ -7,7 +7,7 @@ function Footer() {
       <div className="topRow">
         <div>
           <h1>Derby Rules</h1>
-          <p>Site réalisé dans le cadre de ma formation</p>
+          <p>Site réalisé dans le cadre de ma réorienation professionnelle</p>
         </div>
         <div>
           <a
